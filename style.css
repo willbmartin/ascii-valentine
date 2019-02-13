@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  justify-content: center;
+  vertical-align: center;
+  display: flex;
+  font-size: 1.5em;
+}
+
+.love {
+  color: red;
+  display: inline;
+}
+
